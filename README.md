@@ -1,1 +1,1 @@
-SQL Projects for my Data Analytics portfolio.
+SQL Projects for my Data Analytics portfolio
